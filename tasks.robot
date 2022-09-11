@@ -11,7 +11,7 @@ ${email}                spartacus2235@gmail.com
 ${password}             123456
 ${invalid_email}        Wrong Credentials
 ${facebookname}         facebookname
-${timestamp}             
+           
 
 *** Keywords ***
 Get Current timestamp
