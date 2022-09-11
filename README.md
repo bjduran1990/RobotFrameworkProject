@@ -11,3 +11,6 @@ This template robot:
 ## Learning materials
 
 - [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+
+## Release Notes
+- N/A
